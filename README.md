@@ -2,7 +2,7 @@
 
 本项目是基于[guansss](https://github.com/guansss)大佬(感谢大佬)的[pixi-live2d-display](https://github.com/guansss/pixi-live2d-display)项目开发,适用于vue3的live2d-web项目
 
-制作本项目的初衷是获得一个可以自主修改样式的live2d组件(尽管市面上已经有web_live2d项目了)。 根据此项目,你大概可以做出属于你自己的vue_live2d组件,你可以自己修改样式或者优化函数
+制作本项目的初衷是获得一个可以自主修改样式的碧蓝航线live2d组件(尽管市面上已经有web_live2d项目了)。 根据此项目,你大概可以做出属于你自己的vue3_live2d组件,你可以自己修改样式或者优化函数
 
 本项目使用的api文档为 https://guansss.github.io/pixi-live2d-display/
 
