@@ -11,7 +11,7 @@
 - 可以实现渲染live2d;可以根据列表切换加载的模型;可以根据模型的不同,匹配不同的动作列表;可以暂停动作
 - 本项目初始提供两个live2d文件,但只有一个拥有我手工添加过语音的live2d文件
 - 本人获得的碧蓝航线live2d包,在这里就放上百度链接供各位使用。(文件较大不必一次下完,寻找你需要的模型下载)
-- 碧蓝live2d模型?(模型截至2025年8月) 链接: https://pan.baidu.com/s/1-QgvflZa9fl6ffVjyZWP6w?pwd=1903
+- 碧蓝live2d模型(模型截至2025年8月) 链接: https://pan.baidu.com/s/1-QgvflZa9fl6ffVjyZWP6w?pwd=1903
 
 ### 版权声明
 
